@@ -1,0 +1,102 @@
+{
+    "hi": {
+        "ipads": {
+            "min": 116,
+            "max": 149
+        },
+        "iphones": {
+            "min": 186,
+            "max": 359
+        }
+    },
+    "mihonor": {
+        "redmipads": {
+            "min": 373,
+            "max": 376
+        },
+        "samsungpads": {
+            "min": 377,
+            "max": 396
+        },
+        "googlepixel": {
+            "min": 397,
+            "max": 423
+        },
+        "samsungphones": {
+            "min": 429,
+            "max": 510
+        },
+        "redmis": {
+            "min": 512,
+            "max": 630
+        },
+        "pocos": {
+            "min": 633,
+            "max": 654
+        },
+        "tecnos": {
+            "min": 657,
+            "max": 671
+        },
+        "honors": {
+            "min": 673,
+            "max": 691
+        },
+        "infinixes": {
+            "min": 693,
+            "max": 734
+        },
+        "realmes": {
+            "min": 735,
+            "max": 758
+        }
+    },
+    "youtakeall": {
+        "googlepixel": {
+            "min": 815,
+            "max": 829
+        },
+        "huaweis": {
+            "min": 846,
+            "max": 848
+        },
+        "samsungphones": {
+            "min": 855,
+            "max": 972
+        },
+        "redmis": {
+            "min": 988,
+            "max": 1007
+        }
+    },
+    "pav": {
+        "iphones": {
+            "min": 1043,
+            "max": 1087
+        },
+        "ipads": {
+            "min": 1126,
+            "max": 1137
+        },
+        "samsungphones": {
+            "min": 1144,
+            "max": 1163
+        },
+        "samsungpads": {
+            "min": 1164,
+            "max": 1166
+        },
+        "redmis": {
+            "min": 1173,
+            "max": 1181
+        },
+        "pocos": {
+            "min": 1182,
+            "max": 1187
+        },
+        "honors": {
+            "min": 1188,
+            "max": 1194
+        }
+    }
+}
